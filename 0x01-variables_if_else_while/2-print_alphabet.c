@@ -6,18 +6,6 @@
  */
 int main(void)
 {
-	int upc = 'A';
-	int lwc = 'a';
-	while (lwc <= 'z')
-	{
-		putchar(lwc);
-		lwc += 1;
-	}
-	while (upc <= 'Z')
-	{
-		putchar(upc);
-		upc += 1;
-	}
-	putchar('\n');
+	putchar(65);
 	return (0);
 }
