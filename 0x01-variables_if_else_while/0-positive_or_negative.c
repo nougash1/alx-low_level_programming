@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- *main - Entry point 
- *Discription: 'if the assigned number is greater than zero then number is positive else if equals zero else then it is negative.'
+ *main - Entry point
+ *Discription: 'check if the number is positive or negative.'
  *Return: always 0
  */
 int main(void)
