@@ -7,7 +7,7 @@
  *if the assigned number is greater than 0 then number is positive.
  *else if number equals 0 then number is zero.
  *else number is negative.
- *return: 0
+ *return: always 0
 */
 int main(void)
 {
