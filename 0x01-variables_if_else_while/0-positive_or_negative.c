@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main - entry point
+ *main - assign a random number.
  *if the assigned number is greater than 0 then number is positive.
  *else if number equals 0 then number is zero.
  *else number is negative.
