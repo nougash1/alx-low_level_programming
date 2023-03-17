@@ -3,12 +3,10 @@
 #include <stdio.h>
 
 /**
- *main - assign a random number.
- *if the assigned number is greater than 0 then number is positive.
- *else if number equals 0 then number is zero.
- *else number is negative.
- *return: always 0
-*/
+ *main - 
+ *if the assigned number is greater than zero then number is positive else if equals zero else then it is negative.
+ *Return: always 0
+ */
 int main(void)
 {
 	int n;
