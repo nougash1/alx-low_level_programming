@@ -6,6 +6,12 @@
  */
 int main(void)
 {
-	putchar(65);
+	int n = 'a';
+	while (n <= 'z')
+	{
+		putchar(n);
+		l++;
+	}
+	putchar('\n');
 	return (0);
 }
